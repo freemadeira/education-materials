@@ -4,9 +4,9 @@ Este repositório contém os materiais de apoio usados nas iniciativas de educa�
 
 | Material                  | Categoria | Português | Outros idiomas |
 | ------------------------- | --------- | --------- | -------------- |
-| Introdução ao Bitcoin     | workshop  | PT        |                |
-| Backup e Segurança        | workshop  | PT        |                |
-| Bitcoin para Comerciantes | workshop  | PT        |                |
+| Introdução ao Bitcoin     | workshop  | [PT](Introdução%20ao%20Bitcoin)        |                |
+| Backup e Segurança        | workshop  | [PT](Backup%20e%20Segurança)        |                |
+| Bitcoin para Comerciantes | workshop  | [PT](Bitcoin%20para%20Comerciantes)        |                |
 
 ## Contribuir
 
