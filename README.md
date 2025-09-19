@@ -22,4 +22,4 @@ Todas as contribuições — grandes ou pequenas — são bem-vindas!
 
 ## Licença
 
-Este material pode ser usado e adaptado livremente por qualquer pessoa para fins de ensino, desde que seja mantida a menção de autoria e a referência à [Licença MIT](?tab=MIT-1-ov-file).
+Este material pode ser usado e adaptado livremente por qualquer pessoa para fins de ensino, desde que seja mantida a menção de autoria e a referência à [Licença MIT](https://github.com/freemadeira/education-materials?tab=MIT-1-ov-file).
