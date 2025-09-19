@@ -12,7 +12,7 @@ Este repositório contém os materiais de apoio usados nas iniciativas de educa�
 
 Queres ajudar a melhorar estes materiais? Podes contribuir de várias formas:
 
-- **Sugestões e feedback**: abre um [issue](./issues) para propor melhorias, corrigir erros ou partilhar a tua experiência de utilização.
+- **Sugestões e feedback**: abre um [issue](https://github.com/freemadeira/education-materials/issues) para propor melhorias, corrigir erros ou partilhar a tua experiência de utilização.
 - **Envio de versões revistas**: se alterares um ficheiro, podes carregar a nova versão diretamente num issue, para que possamos integrar.
 - **Partilha de recursos**: se conheceres materiais úteis (artigos, vídeos, exercícios), podes deixá-los como sugestão num issue.
 - **Pull requests**: se souberes usar git, podes fazer fork do repositório, substituir o ficheiro atualizado e abrir um pull request.
