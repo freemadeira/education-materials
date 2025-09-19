@@ -22,4 +22,5 @@ Todas as contribuições — grandes ou pequenas — são bem-vindas!
 
 ## Licença
 
-Este material pode ser usado e adaptado livremente por qualquer pessoa para fins de ensino, desde que seja mantida a menção de autoria e a referência à [Licença MIT](https://github.com/freemadeira/education-materials?tab=MIT-1-ov-file).
+Este material está licenciado sob a [Creative Commons Atribuição-Partilha nos Mesmos Termos 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt).  
+Isto significa que pode ser usado, partilhado e adaptado livremente, desde que seja dada a devida atribuição ao autor e que as obras derivadas sejam distribuídas com a mesma licença.
