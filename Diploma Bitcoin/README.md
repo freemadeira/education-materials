@@ -5,7 +5,7 @@
 
 ## Slides
 
-- [Capítulo 1 — Porque é que precisamos de dinheiro?](Capítulo%201%20—%20Porque%20é%20que%20precisamos%20do%20dinheiro?)
+- [Capítulo 1 — Porque é que precisamos de dinheiro?](Capítulo%201%20—%20Porque%20é%20que%20precisamos%20de%20dinheiro%3F)
 - Capítulo 2 — O que é o dinheiro?
 - Capítulo 3 — A história do dinheiro
 - Capítulo 4 — O que são moedas fiduciárias e quem as controla?
