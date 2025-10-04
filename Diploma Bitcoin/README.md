@@ -22,7 +22,7 @@ Apenas as aulas teóricas são gravadas.
 
 - [Capítulo 1 — Porque é que precisamos de dinheiro?](https://www.youtube.com/watch?v=7znGsCwyCpI)
 - [Capítulo 2 — O que é o dinheiro?](https://www.youtube.com/watch?v=j0dKUh8Bm9A)
-- Capítulo 3 — A história do dinheiro
+- [Capítulo 3 — A história do dinheiro](https://www.youtube.com/watch?v=rYRRxZUy6iw)
 - Capítulo 4 — O que são moedas fiduciárias e quem as controla?
 - Capítulo 5 — A criação de soluções, com base nos problemas
 - Capítulo 6 — Introdução ao Bitcoin
