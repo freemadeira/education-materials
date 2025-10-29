@@ -9,7 +9,7 @@
 - [Capítulo 2 — O que é o dinheiro?](Capítulo%202%20—%20O%20que%20é%20o%20dinheiro%3F)
 - [Capítulo 3 — A história do dinheiro](Capítulo%203%20—%20A%20história%20do%20dinheiro)
 - [Capítulo 4 — O que são moedas fiduciárias e quem as controla?](Capítulo%204%20—%20O%20que%20são%20moedas%20fiduciárias%20e%20quem%20as%20controla%3F)
-- Capítulo 5 — A criação de soluções, com base nos problemas
+- [Capítulo 5 — A criação de soluções, com base nos problemas](Capítulo%205%20—%20A%20criação%20de%20soluções%2C%20com%20base%20nos%20problemas)
 - Capítulo 6 — Introdução ao Bitcoin
 - Capítulo 7 — Como usar o Bitcoin
 - Capítulo 8 — Rede Lightning: Usar bitcoin no dia a dia
