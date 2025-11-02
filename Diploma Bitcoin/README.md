@@ -26,7 +26,7 @@ Apenas as aulas teóricas são gravadas.
 - [Capítulo 4 — O que são moedas fiduciárias e quem as controla?](https://www.youtube.com/watch?v=dq4zHYdC-9M)
 - [Capítulo 5 — A criação de soluções, com base nos problemas](https://www.youtube.com/watch?v=mS6qk_ty53U)
 - [Capítulo 6 — Introdução ao Bitcoin](https://www.youtube.com/watch?v=2MJAUrrDJmc)
-- Capítulo 7 — Como usar o Bitcoin
+- [Capítulo 7 — Como usar o Bitcoin](https://www.youtube.com/watch?v=btBxC-ClZic)
 - Capítulo 8 — Rede Lightning: Usar bitcoin no dia a dia
 - Capítulo 9 — Uma introdução ao lado técnico do Bitcoin
 - Capítulo 10 — Porquê o Bitcoin?
