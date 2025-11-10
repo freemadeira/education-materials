@@ -27,6 +27,6 @@ Apenas as aulas teóricas são gravadas.
 - [Capítulo 5 — A criação de soluções, com base nos problemas](https://www.youtube.com/watch?v=mS6qk_ty53U)
 - [Capítulo 6 — Introdução ao Bitcoin](https://www.youtube.com/watch?v=2MJAUrrDJmc)
 - [Capítulo 7 — Como usar o Bitcoin](https://www.youtube.com/watch?v=btBxC-ClZic)
-- Capítulo 8 — Rede Lightning: Usar bitcoin no dia a dia
+- [Capítulo 8 — Rede Lightning: Usar bitcoin no dia a dia](https://www.youtube.com/watch?v=2K24rVIqfe8)
 - Capítulo 9 — Uma introdução ao lado técnico do Bitcoin
 - Capítulo 10 — Porquê o Bitcoin?
