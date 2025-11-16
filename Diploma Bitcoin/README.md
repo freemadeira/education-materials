@@ -12,7 +12,7 @@
 - [Capítulo 5 — A criação de soluções, com base nos problemas](Capítulo%205%20—%20A%20criação%20de%20soluções%2C%20com%20base%20nos%20problemas)
 - [Capítulo 6 — Introdução ao Bitcoin](Capítulo%206%20—%20Uma%20introdução%20ao%20Bitcoin)
 - [Capítulo 7 — Como usar o Bitcoin](Capítulo%207%20—%20Como%20usar%20o%20bitcoin)
-- Capítulo 8 — Rede Lightning: Usar bitcoin no dia a dia
+- [Capítulo 8 — Rede Lightning: Usar bitcoin no dia a dia](Capítulo%208%20—%20Rede%20Lightning%20-%20Usar%20bitcoin%20no%20dia%20a%20dia)
 - Capítulo 9 — Uma introdução ao lado técnico do Bitcoin
 - Capítulo 10 — Porquê o Bitcoin?
 
