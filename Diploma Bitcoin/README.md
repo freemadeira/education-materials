@@ -13,8 +13,8 @@
 - [Capítulo 6 — Introdução ao Bitcoin](Capítulo%206%20—%20Uma%20introdução%20ao%20Bitcoin)
 - [Capítulo 7 — Como usar o Bitcoin](Capítulo%207%20—%20Como%20usar%20o%20bitcoin)
 - [Capítulo 8 — Rede Lightning: Usar bitcoin no dia a dia](Capítulo%208%20—%20Rede%20Lightning%20-%20Usar%20bitcoin%20no%20dia%20a%20dia)
-- Capítulo 9 — Uma introdução ao lado técnico do Bitcoin
-- Capítulo 10 — Porquê o Bitcoin?
+- [Capítulo 9 — Uma introdução ao lado técnico do Bitcoin](Capítulo%209%20—%20Uma%20Introdução%20ao%20lado%20técnico%20do%20Bitcoin)
+- [Capítulo 10 — Porquê o Bitcoin?](Capítulo%2010%20—%C2%A0Porquê%20o%20Bitcoin%3F)
 
 ## Vídeos
 
