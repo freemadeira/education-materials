@@ -1,1 +1,6 @@
+---
+title: Introdução ao Bitcoin
+description: Este workshop apresenta Bitcoin como dinheiro. Exploramos a importância do dinheiro, a sua origem e evolução, e como Bitcoin representa o futuro do mesmo. No final, serás capaz de usar bitcoin para poupanças e pagamentos do dia-a-dia.
+---
+
 Este workshop apresenta Bitcoin como dinheiro. Exploramos a importância do dinheiro, a sua origem e evolução, e como Bitcoin representa o futuro do mesmo. No final, serás capaz de usar bitcoin para poupanças e pagamentos do dia-a-dia.
