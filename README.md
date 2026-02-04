@@ -2,12 +2,13 @@
 
 Este repositório contém os materiais de apoio usados nas iniciativas de educação da FREE Madeira.
 
-| Material                  | Categoria | Português                           | Outros idiomas                                                                                                                                                                    |
-| ------------------------- | --------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Introdução ao Bitcoin     | workshop  | [PT](Introdução%20ao%20Bitcoin)     |                                                                                                                                                                                   |
-| Backup e Segurança        | workshop  | [PT](Backup%20e%20Segurança)        |                                                                                                                                                                                   |
-| Bitcoin para Comerciantes | workshop  | [PT](Bitcoin%20para%20Comerciantes) |                                                                                                                                                                                   |
-| Diploma Bitcoin           | course    | [PT](Diploma%20Bitcoin)             | [EN](https://qr.myfirstbitcoin.org/bd-en.pdf) [ES](https://qr.myfirstbitcoin.org/bd-es.pdf) [outros](https://drive.google.com/drive/folders/1WwOThf_E_jFgZaNXj022XXQJ7Glygz8R) \* |
+| Material                              | Categoria | Português                                             | Outros idiomas                                                                                                                                                                    |
+| ------------------------------------- | --------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Introdução ao Bitcoin                 | workshop  | [PT](Introdução%20ao%20Bitcoin)                       |                                                                                                                                                                                   |
+| Introdução ao Lado Técnico do Bitcoin | workshop  | [PT](Introdução%20ao%20Lado%20Técnico%20do%20Bitcoin) |                                                                                                                                                                                   |
+| Backup e Segurança                    | workshop  | [PT](Backup%20e%20Segurança)                          |                                                                                                                                                                                   |
+| Bitcoin para Comerciantes             | workshop  | [PT](Bitcoin%20para%20Comerciantes)                   |                                                                                                                                                                                   |
+| Diploma Bitcoin                       | course    | [PT](Diploma%20Bitcoin)                               | [EN](https://qr.myfirstbitcoin.org/bd-en.pdf) [ES](https://qr.myfirstbitcoin.org/bd-es.pdf) [outros](https://drive.google.com/drive/folders/1WwOThf_E_jFgZaNXj022XXQJ7Glygz8R) \* |
 
 \* No Diploma Bitcoin, apenas traduzimos o manual para Português. Os restantes idiomas são ligações externas.
 
