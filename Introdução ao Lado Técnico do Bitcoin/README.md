@@ -1,3 +1,7 @@
-Este workshop é recomendado para quem queira entender os mecanismos que garantem segurança, escassez e funcionamento descentralizado do Bitcoin.
-
-A duração deste workshop é de cerca de 1 hora.
+---
+title: Introdução ao Lado Técnico do Bitcoin
+description: Este workshop é recomendado para quem queira entender os mecanismos que garantem segurança, escassez e funcionamento descentralizado do Bitcoin.
+duration: 1h
+level: beginner
+tags: ["Bitcoin"]
+---
